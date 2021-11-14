@@ -84,7 +84,7 @@ section {
 }
 /* Hero Style Start */
 .hero {
-    background-image: url("C:/Users/jonat/Desktop/projects/run-buddy/assets/images/hero-bg.jpg");
+    background-image: url("https://raw.githubusercontent.com/Synui/run-buddy/main/assets/images/hero-bg.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
