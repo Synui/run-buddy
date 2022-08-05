@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://github.com/Synui/run-buddy
+https://synui.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Jonathon Schoenholz
